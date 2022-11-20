@@ -8,10 +8,20 @@
 MY Wordpress Work Sample Website 
 
 
+
+
 https://betogenneedart.com/
 
 
 https://medycap.com/
+
+
+/
+/
+/
+/
+/
+/
 
 
 ![TA](https://user-images.githubusercontent.com/39211257/202881334-8246cd9f-0e4c-4504-9acf-527a17553628.png)
