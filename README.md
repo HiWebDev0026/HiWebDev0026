@@ -8,27 +8,16 @@
 MY Wordpress Work Sample Website 
 
 
+![httpsbetogenneedart](https://user-images.githubusercontent.com/39211257/202882196-1c925a83-e0e2-4bcd-9319-f782514b8702.png)
 
 
 https://betogenneedart.com/
 
 
-https://medycap.com/
+
+![medycap](https://user-images.githubusercontent.com/39211257/202882374-71350349-2c42-4649-8e29-6d57d569cac6.png)
 
 
-https://smartchoicemart.com/
-
-
-
-http://www.techadvant.com/
-
-
-/
-/
-/
-/
-/
-/
 
 
 ![TA](https://user-images.githubusercontent.com/39211257/202881334-8246cd9f-0e4c-4504-9acf-527a17553628.png)
