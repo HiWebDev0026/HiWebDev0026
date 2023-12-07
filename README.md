@@ -2,6 +2,16 @@
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
     I'm <b>CMS Expert</b> (HiCMSDev)
 </h1>
+<div align="center">
+<!-- website -->
+    <a href="https://hirakawas-fantastic-site.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
+    </a>
+    <a href="https://discord.com/channels/1173649111761830051/1173649236777255033"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
+    <a href="https://telegram.org/superman_195"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
+    <a href="https://join.slack.com/t/hirakawaworkspace/shared_invite/zt-277shuqls-1hFN8xwSfXY99gbcbFjMWQ"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>
+    <a href="mailto:hirakawatsuneteru@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
+</div>
+<br>
 # Wordprss-WEbsite-SAmples
 
 
