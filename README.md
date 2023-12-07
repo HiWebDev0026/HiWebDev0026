@@ -21,12 +21,21 @@ I'm a CMS developer, especially like Wordpress plugin development...
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=HiAIDev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-<!-- activity graph heroku-app end -->
 
-<p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HiAIDev&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@HiCMSDev's wakatime stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=HiAIDev&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@HiCMSDev's trophy stats"/></a>
+
+### PROJECTS AND DEV STUFF
+<b>⚡ Github Stats</b>
+    <br />
+    <p align="center">
+        <a href="https://github.com/HiAIDev?tab=repositories">
+            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HiAIDev&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HiAIDev&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+        </a>
+    </p>
+
 </p>
+
+
 
 # Wordprss-WEbsite-SAmples
 
