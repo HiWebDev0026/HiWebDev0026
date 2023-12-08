@@ -27,9 +27,9 @@ I'm a CMS developer, especially like Wordpress plugin development...
 <b>⚡ Github Stats</b>
     <br />
     <p align="center">
-        <a href="https://github.com/HiAIDev?tab=repositories">
-            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HiAIDev&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HiAIDev&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
+        <a href="https://github.com/HiCMSDev?tab=repositories">
+            <img width="54%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HiCMSDev&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+            <img width="45%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HiCMSDev&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
         </a>
     </p>
 
@@ -38,7 +38,7 @@ I'm a CMS developer, especially like Wordpress plugin development...
 <b>☄️ Github Streaks</b>
   
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiAIDev&theme=gotham&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiCMSDev&theme=gotham&hide_border=true" />
 
   ### TECHNOLOGY
 
