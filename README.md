@@ -4,7 +4,7 @@
 </h1>
 <div align="center">
 <!-- website -->
-    <a href="https://hirakawas-fantastic-site.webflow.io/"><img alt="Website badge" src="https://img.shields.io/badge/Potfolio-EC8B00?logo=google-chrome&logoColor=white">
+    <a href="https://join.skype.com/invite/vGI7EnAYS8EM"><img alt="Website badge" src="https://img.shields.io/badge/Skype-EC8B00?logo=Skypee&logoColor=white">
     </a>
     <a href="https://discord.gg/nfwpRnFr"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
     <a href="https://join.skype.com/invite/vGI7EnAYS8EM"><img alt="Slack badge" src="https://img.shields.io/badge/-Skype-79327f?logo=Skype&logoColor=white"></a>
