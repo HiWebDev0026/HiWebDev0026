@@ -4,10 +4,10 @@
 </h1>
 <div align="center">
 <!-- website -->
-    <a href="https://join.skype.com/invite/vGI7EnAYS8EM"><img alt="Website badge" src="https://img.shields.io/badge/Skype-EC8B00?logo=Skypee&logoColor=white">
+    <a href="https://join.skype.com/invite/vGI7EnAYS8EM"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-EC8B00?logo=Skype&logoColor=white">
     </a>
     <a href="https://discord.gg/nfwpRnFr"><img alt="Telegram badge" src="https://img.shields.io/badge/-Discord-5865f2?logo=Discord&logoColor=white"></a>
-    <a href="https://join.skype.com/invite/vGI7EnAYS8EM"><img alt="Slack badge" src="https://img.shields.io/badge/-Skype-79327f?logo=Skype&logoColor=white"></a>
+    <a href="https://join.skype.com/invite/vGI7EnAYS8EM"><img alt="Skype badge" src="https://img.shields.io/badge/-Skype-79327f?logo=Skype&logoColor=white"></a>
     <a href="https://telegram.org/superman_195"><img alt="Telegram badge" src="https://img.shields.io/badge/-Telegram-0077B5?logo=Telegram&logoColor=white"></a>
     <a href="https://join.slack.com/t/webdevelopmentcenter/shared_invite/zt-28kgyxiqr-PPEkmi~g4ir8syb1xK6zXg"><img alt="Slack badge" src="https://img.shields.io/badge/-Slack-79327f?logo=Slack&logoColor=white"></a>    
     <a href="mailto:asahide0026@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
